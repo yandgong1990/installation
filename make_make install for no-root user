@@ -1,0 +1,8 @@
+Scenario 1 :de-novo installtion
+
+./configure --prefix='your own directory'
+
+Scenario 2 :have been configured
+
+make; then edit Makefile file with vi
+make install
